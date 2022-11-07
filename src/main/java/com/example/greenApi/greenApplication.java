@@ -1,13 +1,13 @@
-package com.example.glutenfreeapp;
+package com.example.greenApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GlutenfreeappApplication {
+public class greenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GlutenfreeappApplication.class, args);
+		SpringApplication.run(greenApplication.class, args);
 	}
 
 }
